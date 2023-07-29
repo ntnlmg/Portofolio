@@ -1,3 +1,1 @@
-# Portofolio
-
-a repository about projects that I have done
+Protofolio : a repository about projects that I have done.
